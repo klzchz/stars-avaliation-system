@@ -86,6 +86,6 @@ session_start();
 	</div>
 </form>
 
-<?= Nrqtd();?>
+
 </body>
 </html>
